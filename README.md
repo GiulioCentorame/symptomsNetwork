@@ -14,13 +14,13 @@ Either way, it assumes:
 + R 3.5.0;
 + gcc 8.1.0+ (due to some R packages that are incompatible with previous versions)
 
-# How to run
+## How to run
 
 ``` sh
 ./run.sh
 ```
 
-# TODO
+## TODO
 
 + Fix file naming system (my past self had no idea of conventions and did not number them)
 + Optimise data recoding script.
