@@ -1,0 +1,16 @@
+SpeedChanges
+SadnessDepressRecent
+InadequacyRecent
+LowEnergyRecent
+LossInterestRecent
+AppetiteChangeRecent
+SuicidalThoughtsRecent
+ConcentrationIssuesDepRecent
+SleepIssuesDepRecent
+IrritableAnxRecent
+ForebodingRecent
+NervousnessRecent
+NonstopWorryRecent
+RestlessnessAnxRecent
+TroubleRelaxingAnxRecent
+MultipleWorriesRecent
